@@ -32,3 +32,15 @@ Passionate about clean architecture, scalable systems, and modern technologies �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
 </p>
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-gh&show_icons=true&theme=radical)
+
+### 🦾 Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-gh&layout=compact&theme=radical)
