@@ -48,7 +48,7 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 
 ### ðŸ¥‹ Codewars Stats
 
-![Codewars](https://www.codewars.com/users/<your-username>/badges/large)
+![Codewars](https://www.codewars.com/users/MuhammadYusufIsmatov/badges/large)
 
 ---
 
