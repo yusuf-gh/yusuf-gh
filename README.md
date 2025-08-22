@@ -35,12 +35,9 @@ Passionate about clean architecture, scalable systems, and modern technologies �
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-gh&show_icons=true&theme=radical)
-
-### 🦾 Most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-gh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-gh&show_icons=true&theme=radical" alt="Yusuf's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-gh&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>
