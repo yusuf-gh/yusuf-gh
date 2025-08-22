@@ -46,6 +46,10 @@ Passionate about clean architecture, scalable systems, and modern technologies �
 
 ---
 
+### 🥋 Codewars Stats
+
+![Codewars](https://www.codewars.com/users/<your-username>/badges/large)
+
 ### 📫 How to reach me
 
 <p align="left">
