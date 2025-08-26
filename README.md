@@ -58,22 +58,12 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 
 ### ðŸ“« How to reach me
 
-<p align="center">
-  <a href="mailto:sanjar.meb@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Lik0ris_tc">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974404-9056cf2e-7410-4b9d-866f-0fb5d5b4a70b.png" alt="telegram"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974414-5d8c1813-1906-4685-803c-0f6b07e55a3c.png" alt="linkedin"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yusuf-gh">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974421-9a0af8c1-0161-44f4-bc32-2b9e8da21b4f.png" alt="github"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/812015797878784058">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974429-33f32e28-d3b5-4c5d-a1c5-f9f6b14a7a5f.png" alt="discord"/>
-  </a>
+<p align="left">
+  <a href="mailto:sanjar.meb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Lik0ris_tc"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yusuf-gh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/812015797878784058"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
 
