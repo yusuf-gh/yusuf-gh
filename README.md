@@ -56,19 +56,19 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 
 <p align="center">
   <a href="mailto:sanjar.meb@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="56" alt="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="56" alt="Gmail"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Lik0ris_tc">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="56" alt="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="56" alt="Telegram"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="56" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="56" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yusuf-gh">
-    <img src="https://cdn.simpleicons.org/github/181717" height="56" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" height="56" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/812015797878784058">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="56" alt="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="56" alt="Discord"/>
   </a>
 </p>
 
