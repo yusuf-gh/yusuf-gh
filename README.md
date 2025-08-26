@@ -39,13 +39,13 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 ### ðŸ“Š GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-gh&show_icons=true&theme=radical" alt="Yusuf's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-gh&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub stats" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-gh&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-gh&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-gh&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-gh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
