@@ -45,7 +45,7 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-gh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-gh&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
