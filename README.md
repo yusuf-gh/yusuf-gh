@@ -54,12 +54,22 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 
 ### ðŸ“« How to reach me
 
-<p align="left">
-  <a href="mailto:sanjar.meb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/Lik0ris_tc"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yusuf-gh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/812015797878784058"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
-</p>
+<div align="center" style="display:flex; justify-content:space-between; gap:10px;">
+  <a href="mailto:sanjar.meb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40"/>
+  </a>
+  <a href="https://t.me/Lik0ris_tc">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40"/>
+  </a>
+  <a href="https://github.com/yusuf-gh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40"/>
+  </a>
+  <a href="https://discordapp.com/users/812015797878784058">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=40"/>
+  </a>
+</div>
 
 
