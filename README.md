@@ -46,7 +46,7 @@ Passionate about clean architecture, scalable systems, and modern technologies â
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=yusuf-gh&theme=tokyonight&hide_border=true&date_format=%5BY%5D-%m-%d&type=png" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-gh&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
     height="200"
   />
