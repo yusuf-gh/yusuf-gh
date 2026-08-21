@@ -6,13 +6,6 @@ Passionate about clean architecture, scalable systems, and modern technologies �
 
 ---
 
-### 🔭 Current Focus
-- Building scalable backend services with **NestJS** & **Prisma**
-- Exploring **Java** ☕ for enterprise backend development
-- Working on digital transformation projects (task management & CRM systems)
-
----
-
 ### 🛠 Tech Stack
 
 <p align="left">
