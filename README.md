@@ -2,7 +2,7 @@
 
 Hi, my name is **Muhammad Yusuf** and I am an active **Backend Developer** 🚀  
 I have experience with building and maintaining backend services for web applications 💻  
-Passionate about clean architecture, scalable systems, and modern technologie ⚡
+Passionate about clean architecture, scalable systems, and modern technologies ⚡
 
 ---
 
